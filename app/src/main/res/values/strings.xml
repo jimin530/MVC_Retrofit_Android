@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="please_enter">请输入城市拼音</string>
+</resources>
